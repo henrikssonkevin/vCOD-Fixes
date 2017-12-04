@@ -4,7 +4,7 @@ Emitter
 
 	life				2500
 
-	origin				1.5 6 1 1.5 6 1
+	origin				1 -0.5 1 1 -0.5 1
 
 	cullrange			400
 
