@@ -602,7 +602,7 @@ fireweapon
 	}
 	weaponclass pistol, weapon_position ads
 	{
-		both pb_stand__shoot_ads_pistol
+		both pb_stand__shoot_ads_pistol duration 90
 	}
 	weaponclass pistol
 	{
