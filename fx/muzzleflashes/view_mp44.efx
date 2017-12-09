@@ -93,6 +93,6 @@ Particle
 
 	shaders
 	[
-		gfx/effects/whitesmoke
+		whitesmoke
 	]
 }
